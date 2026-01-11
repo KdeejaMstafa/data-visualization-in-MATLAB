@@ -23,8 +23,8 @@ grid on → adds grid lines for readability
 
 Element‑wise multiplication .* → required for computing the damped sine function
 
-Output of combined plot of both functions:  
+**Output of combined plot of both functions:**  
 <img width="1857" height="617" alt="image" src="https://github.com/user-attachments/assets/4a5a85a5-e283-47bc-8c81-bf8712d3e6ab" />
 
-Output of subplots:  
+**Output of subplots:**    
 <img width="1860" height="620" alt="image" src="https://github.com/user-attachments/assets/9474d545-7e45-40ad-8d12-0ecd24af07bc" />
